@@ -73,3 +73,8 @@ This command generates new images:
 python main.py -dg --save_dir emnist_bal_200/ -w emnist_bal_200/trained_model.h5 --samples_to_generate 10
 ```
 10 here is the number of samples to generate. 
+
+
+# Report
+
+[Link](https://github.com/darshanrao/Ancient-Hand-Writtten-Recognition-Under-Data-Deficiency/blob/main/implementation%20project%20-%20ancient%20language%20recognition%20under%20data%20deficient%20condition.pdf)

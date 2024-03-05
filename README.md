@@ -1,4 +1,5 @@
 # Ancient Handwritten Recognition under data deficient condition
+![image](https://github.com/darshanrao/Ancient-Hand-Writtten-Recognition-Under-Data-Deficiency/assets/63286192/8b04d87f-35b7-478f-9fb4-439690fa932c)
 
 # Goal
 The primary goal of this project is to significantly improve the accuracy of handwritten character recognition for ancient indian languages under very less data samples per class. Since these languages have historically faced challenges due
